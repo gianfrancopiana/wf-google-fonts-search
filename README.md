@@ -32,7 +32,7 @@ So I decided to create an alternative that would make adding fonts more simple.
 
 ### Chrome Web Store
 
-Go to the [Chrome Web Store page for *Google Fonts Search for Webflow*](https://chrome.google.com/webstore/detail/) and install normally.
+Go to the [Chrome Web Store page for *Google Fonts Search for Webflow*](https://chrome.google.com/webstore/detail/google-fonts-search-for-w/odeioiloofmgfefkignkhabjiliagljo) and install normally.
 
 After installing, make sure to reload any open Webflow tabs or restart Chrome.
 
@@ -61,7 +61,7 @@ Install the extension, and *make sure* you reload any open Webflow tabs or resta
 
 ## 🌎 Feedback
 
-All feedback, bugs, feature requests and pull requests are welcome. [Create an issue here](https://github.com/gianfrancopiana/webflow-font-extension/issues). 
+All feedback, bugs, feature requests and pull requests are welcome. [Create an issue here](https://github.com/gianfrancopiana/wf-google-fonts-search/issues). 
 
 You may also find me on my website at [www.gianfrancopiana.com](https://www.gianfrancopiana.com) or twitter at [@pianagianfranco](https://twitter.com/pianagianfranco).
 
