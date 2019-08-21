@@ -21,3 +21,11 @@ FEATURES:
 PERMISSIONS:
 
 • activeTab: Allows the extension to check if the current tab url matches the Font section
+
+
+PRIVACY: 
+
+• Google Fonts Search for Webflow doesn't track user data. 
+
+
+Source code is available on GitHub:  https://github.com/gianfrancopiana/wf-google-fonts-search
