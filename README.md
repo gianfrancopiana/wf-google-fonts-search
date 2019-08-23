@@ -12,7 +12,7 @@ This Chrome extension aims to help [Webflow](https://webflow.com/) users add Goo
 
 [Webflow](https://webflow.com/) is known for its ease of use and simplicity. But I found myself a bit overwhelmed when adding Google fonts.
 
-Currently, the way to add a font is to select it from a standard [dropdown list in Project settings](https://university.webflow.com/article/google-fonts). But there are more than 900 fonts to choose from!
+Currently, the way to add a font is to select it from a standard [dropdown list](https://university.webflow.com/article/google-fonts). But there are more than 900 fonts to choose from!
 
 So I decided to create an alternative that would make adding fonts more simple.
 
@@ -38,11 +38,11 @@ After installing, make sure to reload any open Webflow tabs or restart Chrome.
 
 ### Manual/Development
 
-1. Clone this repo.
+1. Download latest release zip and extract the zip file.
 2. In Chrome, enter `chrome://extensions/` into your address bar.
 3. Click on the `developer mode` toggle in the upper-right corner.
 4. Click the now-visible `Load unpacked extension…` button. 
-5. Navigate to the directory where you cloned the repo, then the `dist` directory under that. The *Google Fonts Search for Webflow* extension should now be visible in your extensions list.
+5. Navigate to the directory where you extracted the zip file. The *Google Fonts Search for Webflow* extension should now be visible in your extensions list.
 6. Reload any open Webflow tabs before trying to use the extension.
 
 <br>
