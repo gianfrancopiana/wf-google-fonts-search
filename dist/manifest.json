@@ -1,0 +1,48 @@
+{
+  "manifest_version": 2,
+  "name": "Google Fonts Search for Webflow",
+  "version": "0.0.3",
+
+  "author": "Gianfranco Piana <hola@gianfrancopiana.com>",
+  "homepage_url": "https://www.gianfrancopiana.com/",
+
+  "description": "Adds search to Google Fonts, inside Webflow.",
+  "icons": {
+    "16": "icons/icon16.png",
+    "24": "icons/icon24.png",
+    "32": "icons/icon32.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+
+  "page_action": {
+    "default_icon": {                    
+      "16": "icons/icon16.png",           
+      "24": "icons/icon24.png",           
+      "32": "icons/icon32.png"
+    },
+    "default_title": "Google Fonts Search for Webflow"
+  },
+
+  "background": {
+    "scripts":["js/background.js"],
+    "persistent": false
+  },
+
+  "content_scripts": [
+    {
+      "matches": [
+        "*://webflow.com/dashboard/*"
+      ],
+      "js": [
+        "js/content.js"
+      ],
+      "run_at": "document_idle"
+    }
+  ],
+
+  "permissions": [
+    "activeTab",
+    "*://webflow.com/dashboard/*"
+  ]
+}
