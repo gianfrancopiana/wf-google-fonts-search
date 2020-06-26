@@ -1,7 +1,6 @@
-NOTE: Google Fonts Search for Webflow is developed independently, and is not officially endorsed by or affiliated with Webflow, Inc.
+NOTE: This Chrome extension is developed independently, and is not officially endorsed by or affiliated with Webflow, Inc.
 
-This Chrome extension aims to help Webflow users add Google fonts to their projects. It replaces Webflow's dropdown list under Project settings.
-
+This Chrome extension replaces Webflow's default dropdown list under your Project settings.
 
 FEATURES:
 
@@ -11,9 +10,10 @@ FEATURES:
 
 • Prevents duplicate font entries on projects
 
-• Changes the Add Font button label to match the selected font; e.g. Add Roboto.
+• Updates the Add Font button label to match the selected font—e.g. Add Roboto.
 
 • Follows WAI-ARIA Authoring Practices 1.1
+
 
 PRIVACY: 
 
