@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Add Search to Google Fonts in Webflow",
-  "version": "0.0.3",
+  "version": "0.0.4",
 
   "author": "Gianfranco Piana <hola@gianfrancopiana.com>",
   "homepage_url": "https://www.gianfrancopiana.com/",
