@@ -18,7 +18,7 @@ This Chrome extension replaces Webflow's default dropdown list under Project set
 
 ## Usage
 
-Install the extension, and *make sure* you reload any open Webflow tabs. Or restart Chrome.
+Install the extension from the [Chrome Web Store](https://chrome.google.com/webstore/detail/add-search-to-google-font/odeioiloofmgfefkignkhabjiliagljo), and *make sure* you reload any open Webflow tabs. Or restart Chrome.
 
 1. Log into your Webflow account.
 2. Go to *Project settings → Fonts → Google fonts*
